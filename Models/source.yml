@@ -1,0 +1,22 @@
+version: 2 
+
+sources:
+  - name: sources
+    database: COMEX
+    schema: stage
+    tables:
+      - name: imp
+
+      - name: mun
+
+      - name: ncm
+
+      - name: pais
+
+      - name: sh 
+
+      - name: uf
+
+      - name: urf
+
+      - name: via
